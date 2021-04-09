@@ -14,3 +14,8 @@ No, the slope would not be considered 0. Vehicle Length and Ground Clearance r s
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 No it does not predict mpg of MechaCar prototypes effectively. We are only looking at 5 variables that could impact MPG and I think we would need a lot more information to begin to predict mpg. We are also not really trying to establish the impact that these variables have on mpg, rather we are trying to determine the degree of certainty to with which they do impact mpg.
+
+## Summary Statistics on Suspension Coils
+
+In total (considering the data from all lots at once) the design specification demanding that suspension cuoils must not exceed 100 points per square inch is being met. The variance for the total data is under 100 PSI. The current manufacturing data for Lot 3 does not meet the deisgn specification, as it has a PSI variance of 170.29.
+
