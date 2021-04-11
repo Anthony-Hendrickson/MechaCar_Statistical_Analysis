@@ -19,3 +19,8 @@ No it does not predict mpg of MechaCar prototypes effectively. We are only looki
 
 In total (considering the data from all lots at once) the design specification demanding that suspension cuoils must not exceed 100 points per square inch is being met. The variance for the total data is under 100 PSI. The current manufacturing data for Lot 3 does not meet the deisgn specification, as it has a PSI variance of 170.29.
 
+## Study Design: MechaCar vs. Competition
+
+I'm interested in conducting a study that compares MechaCar's highway fuel efficiency against it's competition. We want to prove that, for their size, MechaCar's vehicles outperform their competition in terms of highway fuel efficiency. To do so, we need to create 'classes' of vehicle which means grouping them by size. To determine the ranges within which to group these vehicles we should create a box and whisker plot showing size accross the different companies so that we can see exactly what our ranges are.
+
+After determining our classes/ranges based on the quartiles of the box whisker plotting 
