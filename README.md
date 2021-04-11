@@ -23,4 +23,4 @@ In total (considering the data from all lots at once) the design specification d
 
 I'm interested in conducting a study that compares MechaCar's highway fuel efficiency against it's competition. We want to prove that, for their size, MechaCar's vehicles outperform their competition in terms of highway fuel efficiency. To do so, we need to create 'classes' of vehicle which means grouping them by size. To determine the ranges within which to group these vehicles we should create a box and whisker plot showing size accross the different companies so that we can see exactly what our ranges are.
 
-After determining our classes/ranges based on the quartiles of the box whisker plotting 
+After determining our size classes/ranges based on the quartiles of the box whisker plotting, we will be able to make relevant comparisons between manufacturers.
